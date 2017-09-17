@@ -1,2 +1,2 @@
 # BillFormatter
-Foramt ola bills
+Format ola bills
